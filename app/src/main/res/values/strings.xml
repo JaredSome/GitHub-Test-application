@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitHub Test application</string>
+    <string name="simple_change">Simple change test</string>
 </resources>
